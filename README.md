@@ -16,15 +16,3 @@ Terms Used -LY- Last Year , CY-Current Year
 📌 Power BI
 
 📌 MS Excel
-
-## Here are the insights/trends from the dashboard:
-Defects Quantity By Supplier
-
-Defects Qty and Defects Quantity LY By Month
-
-Defects Status By Country
-
-Defects Status By Category
-
-Defects Status By Supplier
-
