@@ -16,3 +16,6 @@ Terms Used -LY- Last Year , CY-Current Year
 📌 Power BI
 
 📌 MS Excel
+
+
+Explore the dahsboard to discover trends and get respecitve insights.
