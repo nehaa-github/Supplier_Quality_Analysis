@@ -18,4 +18,4 @@ Terms Used -LY- Last Year , CY-Current Year
 📌 MS Excel
 
 
-Explore the dahsboard to discover trends and get respecitve insights.
+Explore the dahsboard to discover trends and get respective insights.
